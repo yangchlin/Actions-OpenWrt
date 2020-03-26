@@ -15,3 +15,4 @@ sed -i 's/192.168/10.0/g' package/base-files/files/bin/config_generate
 # mkdir -p $packages_path
 # git clone https://github.com/openwrt-develop/luci-theme-atmaterial $packages_path/luci-theme-atmaterial
 # git clone https://github.com/aboutboy/luci-theme-butongwifi.git
+
